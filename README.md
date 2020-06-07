@@ -1,5 +1,5 @@
 ## Intruduction
-This is an archive of my previous blog which was first launched in 2012 and now is abandoned since I decide to migrate to [withparaodx2.github.io](withparaodx2.github.io), which is more intuitive and easier to maintain. With the help of Docker, I'm  able to deloy and visit it within a minute anytime in the future.
+This is an archive of my previous blog which was first launched in 2012 and now is abandoned since I decide to migrate to [withparadox2.github.io](http://withparadox2.github.io), which is more intuitive and easier to maintain. With the help of Docker, it's possible to deloy and visit it within a minute anytime in the future.
 
 ## Run
 - Clone this project to your local machine
