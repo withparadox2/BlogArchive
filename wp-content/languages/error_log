@@ -1,0 +1,2 @@
+[15-Oct-2015 06:00:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/withpara/public_html/wp-content/languages/zh_CN.php on line 31
+[17-Oct-2015 02:03:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/withpara/public_html/wp-content/languages/zh_CN.php on line 31
