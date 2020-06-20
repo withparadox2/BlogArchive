@@ -7,7 +7,7 @@ This is an archive of my previous blog which was first launched in 2012 and now 
 - Run `docker-compose up -d`
 - After all services are up, visit `http://localhost:8000`
 
-User name and password are all set to `withparadox2`.
+A default wordpress account is provided with name and password all set to `withparadox2`.
 
 ## Useful tips
 ### docker-compose up -d
