@@ -5,7 +5,7 @@ This is an archive of my previous blog which was first launched in 2012 and now 
 - Clone this project to your local machine
 - Install docker compose
 - Run `docker-compose up -d`
-- After all service are up, visit `http://localhost:8000`
+- After all services are up, visit `http://localhost:8000`
 
 User name and password are all set to `withparadox2`.
 
